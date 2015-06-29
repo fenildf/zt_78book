@@ -1,0 +1,199 @@
+{
+	"name" : "5折专区",
+	"tips" : "7月1日——7月7日全天震撼折扣价！",
+	"items": [
+		{
+			"id" : "23943",
+			"title" : "小学奥数系统总复习上册",
+			"grade" : "x",
+			"price" : "35.00",
+			"discountPrice" : "18.00",
+			"picUrl" : "src/pic/78_t3_x1.png",
+			"link" : "http://www.xueersi.com/kc/23943.html"
+		},{
+			"id" : "23944",
+			"title" : "小学奥数系统总复习下册",
+			"grade" : "x",
+			"price" : "29.00",
+			"discountPrice" : "15.00",
+			"picUrl" : "src/pic/78_t3_x2.png",
+			"link" : "http://www.xueersi.com/kc/23944.html"
+		},{
+			"id" : "24048",
+			"title" : "小学·1年级套装",
+			"grade" : "x",
+			"price" : "156.00",
+			"discountPrice" : "78.00",
+			"picUrl" : "src/pic/78_t3_x3.png",
+			"link" : "http://www.xueersi.com/kc/24048.html"
+		},{
+			"id" : "24049",
+			"title" : "小学·2年级套装",
+			"grade" : "x",
+			"price" : "164.00",
+			"discountPrice" : "82.00",
+			"picUrl" : "src/pic/78_t3_x4.png",
+			"link" : "http://www.xueersi.com/kc/24049.html"
+		},{
+			"id" : "24050",
+			"title" : "小学·3年级套装",
+			"grade" : "x",
+			"price" : "198.50",
+			"discountPrice" : "99.00",
+			"picUrl" : "src/pic/78_t3_x5.png",
+			"link" : "http://www.xueersi.com/kc/24050.html"
+		},{
+			"id" : "24051",
+			"title" : "小学·4年级套装",
+			"grade" : "x",
+			"price" : "271.30",
+			"discountPrice" : "136.00",
+			"picUrl" : "src/pic/78_t3_x6.png",
+			"link" : "http://www.xueersi.com/kc/24051.html"
+		},{
+			"id" : "24052",
+			"title" : "小学·5年级套装",
+			"grade" : "x",
+			"price" : "206.50",
+			"discountPrice" : "103.00",
+			"picUrl" : "src/pic/78_t3_x7.png",
+			"link" : "http://www.xueersi.com/kc/24052.html"
+		},{
+			"id" : "24053",
+			"title" : "小学·6年级套装",
+			"grade" : "x",
+			"price" : "198.50",
+			"discountPrice" : "99.00",
+			"picUrl" : "src/pic/78_t3_x8.png",
+			"link" : "http://www.xueersi.com/kc/24053.html"
+		},{
+			"id" : "24020",
+			"title" : "培优辅导--初一数学跟踪练习（上册）BS",
+			"grade" : "c",
+			"price" : "36.80",
+			"discountPrice" : "18.00",
+			"picUrl" : "src/pic/78_t3_c1.png",
+			"link" : "http://www.xueersi.com/kc/24020.html"
+		},{
+			"id" : "24056",
+			"title" : "培优辅导--初二数学跟踪练习（上册）BS",
+			"grade" : "c",
+			"price" : "39.80",
+			"discountPrice" : "20.00",
+			"picUrl" : "src/pic/78_t3_c2.png",
+			"link" : "http://www.xueersi.com/kc/24056.html"
+		},{
+			"id" : "24021",
+			"title" : "培优辅导--初一数学跟踪练习（下册）BS",
+			"grade" : "c",
+			"price" : "34.80",
+			"discountPrice" : "17.00",
+			"picUrl" : "src/pic/78_t3_c3.png",
+			"link" : "http://www.xueersi.com/kc/24021.html"
+		},{
+			"id" : "24057",
+			"title" : "培优辅导--初二数学跟踪练习（下册）BS",
+			"grade" : "c",
+			"price" : "39.80",
+			"discountPrice" : "20.00",
+			"picUrl" : "src/pic/78_t3_c4.png",
+			"link" : "http://www.xueersi.com/kc/24057.html"
+		},{
+			"id" : "24022",
+			"title" : "培优辅导--初一数学跟踪练习（上）RJ",
+			"grade" : "c",
+			"price" : "26.80",
+			"discountPrice" : "13.00",
+			"picUrl" : "src/pic/78_t3_c5.png",
+			"link" : "http://www.xueersi.com/kc/24022.html"
+		},{
+			"id" : "24023",
+			"title" : "培优辅导--初一数学跟踪练习（下）RJ",
+			"grade" : "c",
+			"price" : "33.80",
+			"discountPrice" : "17.00",
+			"picUrl" : "src/pic/78_t3_c6.png",
+			"link" : "http://www.xueersi.com/kc/24023.html"
+		},{
+			"id" : "24058",
+			"title" : "培优辅导--初二数学跟踪练习（上）RJ",
+			"grade" : "c",
+			"price" : "34.80",
+			"discountPrice" : "17.00",
+			"picUrl" : "src/pic/78_t3_c7.png",
+			"link" : "http://www.xueersi.com/kc/24058.html"
+		},{
+			"id" : "24059",
+			"title" : "培优辅导--初二数学跟踪练习（下）RJ",
+			"grade" : "c",
+			"price" : "37.80",
+			"discountPrice" : "19.00",
+			"picUrl" : "src/pic/78_t3_c8.png",
+			"link" : "http://www.xueersi.com/kc/24059.html"
+		},{
+			"id" : "24028",
+			"title" : "培优辅导--初三数学跟踪练习",
+			"grade" : "c",
+			"price" : "32.90",
+			"discountPrice" : "16.00",
+			"picUrl" : "src/pic/78_t3_c9.png",
+			"link" : "http://www.xueersi.com/kc/24028.html"
+		},{
+			"id" : "24026",
+			"title" : "初中·七年级套装（人教版）",
+			"grade" : "c",
+			"price" : "107.30",
+			"discountPrice" : "54.00",
+			"picUrl" : "src/pic/78_t3_c10.png",
+			"link" : "http://www.xueersi.com/kc/24026.html"
+		},{
+			"id" : "24027",
+			"title" : "初中·七年级套装（北师版）",
+			"grade" : "c",
+			"price" : "118.30",
+			"discountPrice" : "59.00",
+			"picUrl" : "src/pic/78_t3_c11.png",
+			"link" : "http://www.xueersi.com/kc/24027.html"
+		},{
+			"id" : "24066",
+			"title" : "初中·八年级套装（人教版）",
+			"grade" : "c",
+			"price" : "254.70",
+			"discountPrice" : "127.00",
+			"picUrl" : "src/pic/78_t3_c12.png",
+			"link" : "http://www.xueersi.com/kc/24066.html"
+		},{
+			"id" : "24067",
+			"title" : "初中·八年级套装（北师版）",
+			"grade" : "c",
+			"price" : "261.70",
+			"discountPrice" : "131.00",
+			"picUrl" : "src/pic/78_t3_c13.png",
+			"link" : "http://www.xueersi.com/kc/24067.html"
+		},{
+			"id" : "24040",
+			"title" : "初中·九年级套装",
+			"grade" : "c",
+			"price" : "269.40",
+			"discountPrice" : "135.00",
+			"picUrl" : "src/pic/78_t3_c14.png",
+			"link" : "http://www.xueersi.com/kc/24040.html"
+		},{
+			"id" : "24041",
+			"title" : "中考总复习套装",
+			"grade" : "c",
+			"price" : "113.70",
+			"discountPrice" : "57.00",
+			"picUrl" : "src/pic/78_t3_c15.png",
+			"link" : "http://www.xueersi.com/kc/24041.html"
+		},{
+			"id" : "24000",
+			"title" : "高中·数学套装",
+			"grade" : "g",
+			"price" : "162.00",
+			"discountPrice" : "81.00",
+			"picUrl" : "src/pic/78_t3_g1.png",
+			"link" : "http://www.xueersi.com/kc/24000.html"
+		}
+	] 
+}

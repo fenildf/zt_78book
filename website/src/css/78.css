@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2015-06-29 20:36:05
+ * @version $Id$
+ */
+body {
+	background-color: #f6f6f6;
+}
+.am-container {
+	/*width: 1200px;*/
+	max-width: 1200px;
+	padding: 0;
+	/*margin:0;*/
+}
+
+.headpic {
+	width: 100%;
+	height: 710px;
+	background: url("../img/78_headpic.png") no-repeat top center;
+	/*background-size: 100%;*/
+
+}
+
+.area-heading {
+	width: 100%;
+	height: 66px;
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+.tit1 {
+	background-image: url("../img/78_t1.png");
+}
+.tit2 {
+	background-image: url("../img/78_t2.png");
+}
+.tit3 {
+	background-image: url("../img/78_t3.png");
+}
+.tit4 {
+	background-image: url("../img/78_t4.png");
+}
+.tit5 {
+	background-image: url("../img/78_t5.png");
+}
+
+.area-item {
+	width: 287px !important;
+	height: 514px !important;
+	/*border:1px #CCC solid;*/
+	/*border-radius: 5px;*/
+	padding: 0 !important;
+	margin: 10px 0 10px 10px;
+}
+.area-item-img {
+	width: 287px;
+	height: 360px;
+}
+.area-item-content{
+	width: 287px;
+	height: 164px;
+	padding: 10px;
+	background: url("../img/78_item_bg.png") no-repeat bottom center;
+}
+.am-gallery-default .am-gallery-title {
+	margin-top: 0;
+	font-size: 18px;
+}
+
+.am-color-pink {
+	color: #FD7170;
+}
+.area-item-btn .am-btn.am-btn-pink {
+	width: 213px;
+	height: 60px;
+	color: #FFF;
+	line-height: 0.8;
+	margin-top: 10px;
+	display: inline-block;
+	background: url("../img/78_btn_bg.png") no-repeat top center !important;
+}

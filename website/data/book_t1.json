@@ -1,0 +1,42 @@
+{
+	"name" : "秒杀专区",
+	"tips" : "7月2日——7月6日，每天15:00——次日12:00限时开抢！",
+	"items": [
+		{
+			"id" : "24068",
+			"title" : "状元计划·初二期末·压轴题",
+			"grade" : "",
+			"price" : "66.00",
+			"discountPrice" : "20",
+			"picUrl" : "src/pic/78_t1_1.png",
+			"link" : "http://www.xueersi.com/kc/24068.html"
+		},
+		{
+			"id" : "23990",
+			"title" : "2015中考最后一套压轴密卷",
+			"grade" : "",
+			"price" : "79.00",
+			"discountPrice" : "30",
+			"picUrl" : "src/pic/78_t1_2.png",
+			"link" : "http://www.xueersi.com/kc/23990.html"
+		},
+		{
+			"id" : "23951",
+			"title" : "小学5年级计算+几何套装",
+			"grade" : "",
+			"price" : "77.80",
+			"discountPrice" : "49",
+			"picUrl" : "src/pic/78_t1_3.png",
+			"link" : "http://www.xueersi.com/kc/23951.html"
+		},
+		{
+			"id" : "23987",
+			"title" : "初中·秘籍套装",
+			"grade" : "283.20",
+			"price" : "",
+			"discountPrice" : "142",
+			"picUrl" : "src/pic/78_t1_4.png",
+			"link" : "http://www.xueersi.com/kc/23987.html"
+		}
+	] 
+}

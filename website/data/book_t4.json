@@ -1,0 +1,503 @@
+{
+	"name" : "6折专区",
+	"tips" : "7月1日——7月7日全天震撼折扣价！",
+	"items": [
+		{
+			"id" : "23958",
+			"title" : "小学奥数·优秀生培养教程5级（三年级适用）",
+			"grade" : "x",
+			"price" : "54.80",
+			"discountPrice" : "33.00",
+			"picUrl" : "src/pic/78_t4_x1.png",
+			"link" : "http://www.xueersi.com/kc/23958.html"
+		},{
+			"id" : "23959",
+			"title" : "小学奥数·优秀生培养教程7级（四年级适用）",
+			"grade" : "x",
+			"price" : "59.80",
+			"discountPrice" : "36.00",
+			"picUrl" : "src/pic/78_t4_x2.png",
+			"link" : "http://www.xueersi.com/kc/23959.html"
+		},{
+			"id" : "23960",
+			"title" : "小学奥数·优秀生培养教程8级（四年级适用）",
+			"grade" : "x",
+			"price" : "59.80",
+			"discountPrice" : "36.00",
+			"picUrl" : "src/pic/78_t4_x3.png",
+			"link" : "http://www.xueersi.com/kc/23960.html"
+		},{
+			"id" : "23961",
+			"title" : "小学奥数·优秀生培养教程9级（五年级适用）",
+			"grade" : "x",
+			"price" : "62.80",
+			"discountPrice" : "38.00",
+			"picUrl" : "src/pic/78_t4_x4.png",
+			"link" : "http://www.xueersi.com/kc/23961.html"
+		},{
+			"id" : "23962",
+			"title" : "小学奥数·优秀生培养教程11级（六年级适用）",
+			"grade" : "x",
+			"price" : "54.80",
+			"discountPrice" : "33.00",
+			"picUrl" : "src/pic/78_t4_x5.png",
+			"link" : "http://www.xueersi.com/kc/23962.html"
+		},{
+			"id" : "23945",
+			"title" : "小学数学计算秘籍-一年级",
+			"grade" : "x",
+			"price" : "24.80",
+			"discountPrice" : "15.00",
+			"picUrl" : "src/pic/78_t4_x6.png",
+			"link" : "http://www.xueersi.com/kc/23945.html"
+		},{
+			"id" : "23946",
+			"title" : "小学数学计算秘籍-二年级",
+			"grade" : "x",
+			"price" : "24.80",
+			"discountPrice" : "15.00",
+			"picUrl" : "src/pic/78_t4_x7.png",
+			"link" : "http://www.xueersi.com/kc/23946.html"
+		},{
+			"id" : "23947",
+			"title" : "小学数学计算秘籍-三年级",
+			"grade" : "x",
+			"price" : "24.80",
+			"discountPrice" : "15.00",
+			"picUrl" : "src/pic/78_t4_x8.png",
+			"link" : "http://www.xueersi.com/kc/23947.html"
+		},{
+			"id" : "23948",
+			"title" : "小学数学计算秘籍-四年级",
+			"grade" : "x",
+			"price" : "27.80",
+			"discountPrice" : "17.00",
+			"picUrl" : "src/pic/78_t4_x9.png",
+			"link" : "http://www.xueersi.com/kc/23948.html"
+		},{
+			"id" : "23949",
+			"title" : "小学数学计算秘籍-五年级",
+			"grade" : "x",
+			"price" : "28.80",
+			"discountPrice" : "17.00",
+			"picUrl" : "src/pic/78_t4_x10.png",
+			"link" : "http://www.xueersi.com/kc/23949.html"
+		},{
+			"id" : "23950",
+			"title" : "小学数学计算秘籍-六年级",
+			"grade" : "x",
+			"price" : "28.80",
+			"discountPrice" : "17.00",
+			"picUrl" : "src/pic/78_t4_x11.png",
+			"link" : "http://www.xueersi.com/kc/23950.html"
+		},{
+			"id" : "24042",
+			"title" : "小学数学课内培优跟踪练习册--一年级（上册+下册）",
+			"grade" : "x",
+			"price" : "63.80",
+			"discountPrice" : "38.00",
+			"picUrl" : "src/pic/78_t4_x12.png",
+			"link" : "http://www.xueersi.com/kc/24042.html"
+		},{
+			"id" : "24043",
+			"title" : "小学数学课内培优跟踪练习册--二年级（上册+下册）",
+			"grade" : "x",
+			"price" : "63.60",
+			"discountPrice" : "38.00",
+			"picUrl" : "src/pic/78_t4_x13.png",
+			"link" : "http://www.xueersi.com/kc/24043.html"
+		},{
+			"id" : "24044",
+			"title" : "小学数学课内培优跟踪练习册--三年级（上册+下册）",
+			"grade" : "x",
+			"price" : "64.30",
+			"discountPrice" : "39.00",
+			"picUrl" : "src/pic/78_t4_x14.png",
+			"link" : "http://www.xueersi.com/kc/24044.html"
+		},{
+			"id" : "24045",
+			"title" : "小学数学课内培优跟踪练习册--四年级（上册+下册）",
+			"grade" : "x",
+			"price" : "70.60",
+			"discountPrice" : "42.00",
+			"picUrl" : "src/pic/78_t4_x15.png",
+			"link" : "http://www.xueersi.com/kc/24045.html"
+		},{
+			"id" : "24046",
+			"title" : "小学数学课内培优跟踪练习册--五年级（上册+下册）",
+			"grade" : "x",
+			"price" : "72.60",
+			"discountPrice" : "44.00",
+			"picUrl" : "src/pic/78_t4_x16.png",
+			"link" : "http://www.xueersi.com/kc/24046.html"
+		},{
+			"id" : "24047",
+			"title" : "小学数学课内培优跟踪练习册--六年级（上册+下册）",
+			"grade" : "x",
+			"price" : "73.80",
+			"discountPrice" : "44.00",
+			"picUrl" : "src/pic/78_t4_x17.png",
+			"link" : "http://www.xueersi.com/kc/24047.html"
+		},{
+			"id" : "23963",
+			"title" : "练好字·小学生语文同步字帖人教版（一年级上）",
+			"grade" : "x",
+			"price" : "23.80",
+			"discountPrice" : "14.00",
+			"picUrl" : "src/pic/78_t4_x18.png",
+			"link" : "http://www.xueersi.com/kc/23963.html"
+		},{
+			"id" : "23964",
+			"title" : "练好字·小学生语文同步字帖人教版（二年级上）",
+			"grade" : "x",
+			"price" : "23.80",
+			"discountPrice" : "14.00",
+			"picUrl" : "src/pic/78_t4_x19.png",
+			"link" : "http://www.xueersi.com/kc/23964.html"
+		},{
+			"id" : "23965",
+			"title" : "练好字·小学生语文同步字帖人教版（一年级下）",
+			"grade" : "x",
+			"price" : "23.80",
+			"discountPrice" : "14.00",
+			"picUrl" : "src/pic/78_t4_x20.png",
+			"link" : "http://www.xueersi.com/kc/23965.html"
+		},{
+			"id" : "23966",
+			"title" : "练好字·小学生语文同步字帖人教版（二年级下）",
+			"grade" : "x",
+			"price" : "24.80",
+			"discountPrice" : "15.00",
+			"picUrl" : "src/pic/78_t4_x21.png",
+			"link" : "http://www.xueersi.com/kc/23966.html"
+		},{
+			"id" : "23967",
+			"title" : "练好字·小学生语文同步字帖人教版（三年级下）",
+			"grade" : "x",
+			"price" : "24.80",
+			"discountPrice" : "15.00",
+			"picUrl" : "src/pic/78_t4_x22.png",
+			"link" : "http://www.xueersi.com/kc/23967.html"
+		},{
+			"id" : "23968",
+			"title" : "练好字·小学生语文同步字帖人教版（四年级下）",
+			"grade" : "x",
+			"price" : "23.80",
+			"discountPrice" : "14.00",
+			"picUrl" : "src/pic/78_t4_x23.png",
+			"link" : "http://www.xueersi.com/kc/23968.html"
+		},{
+			"id" : "23969",
+			"title" : "读写培优读本（第一册上）",
+			"grade" : "x",
+			"price" : "45.00",
+			"discountPrice" : "27.00",
+			"picUrl" : "src/pic/78_t4_x24.png",
+			"link" : "http://www.xueersi.com/kc/23969.html"
+		},{
+			"id" : "23970",
+			"title" : "读写培优读本（第一册下）",
+			"grade" : "x",
+			"price" : "45.00",
+			"discountPrice" : "27.00",
+			"picUrl" : "src/pic/78_t4_x25.png",
+			"link" : "http://www.xueersi.com/kc/23970.html"
+		},{
+			"id" : "23971",
+			"title" : "素养起航读本（第一册上）",
+			"grade" : "x",
+			"price" : "45.00",
+			"discountPrice" : "27.00",
+			"picUrl" : "src/pic/78_t4_x26.png",
+			"link" : "http://www.xueersi.com/kc/23971.html"
+		},{
+			"id" : "23972",
+			"title" : "素养起航读本（第一册下）",
+			"grade" : "x",
+			"price" : "45.00",
+			"discountPrice" : "27.00",
+			"picUrl" : "src/pic/78_t4_x27.png",
+			"link" : "http://www.xueersi.com/kc/23972.html"
+		},{
+			"id" : "23979",
+			"title" : "几何辅助线秘籍（第2版）：初中数学",
+			"grade" : "c",
+			"price" : "29.80",
+			"discountPrice" : "18.00",
+			"picUrl" : "src/pic/78_t4_c1.png",
+			"link" : "http://www.xueersi.com/kc/23979.html"
+		},{
+			"id" : "23980",
+			"title" : "实验秘籍：初中化学",
+			"grade" : "c",
+			"price" : "32.80",
+			"discountPrice" : "20.00",
+			"picUrl" : "src/pic/78_t4_c2.png",
+			"link" : "http://www.xueersi.com/kc/23980.html"
+		},{
+			"id" : "23981",
+			"grade" : "",
+			"title" : "推断 计算秘籍：初中化学",
+			"price" : "29.80",
+			"discountPrice" : "18.00",
+			"picUrl" : "src/pic/78_t4_c3.png",
+			"link" : "http://www.xueersi.com/kc/23981.html"
+		},{
+			"id" : "23982",
+			"grade" : "",
+			"title" : "初中物理力学全能突破秘籍",
+			"price" : "29.50",
+			"discountPrice" : "18.00",
+			"picUrl" : "src/pic/78_t4_c4.png",
+			"link" : "http://www.xueersi.com/kc/23982.html"
+		},{
+			"id" : "23983",
+			"grade" : "",
+			"title" : "初中物理实验全能突破秘籍",
+			"price" : "53.80",
+			"discountPrice" : "32.00",
+			"picUrl" : "src/pic/78_t4_c5.png",
+			"link" : "http://www.xueersi.com/kc/23983.html"
+		},{
+			"id" : "23984",
+			"grade" : "",
+			"title" : "初中物理电学全能突破秘籍",
+			"price" : "37.80",
+			"discountPrice" : "23.00",
+			"picUrl" : "src/pic/78_t4_c6.png",
+			"link" : "http://www.xueersi.com/kc/23984.html"
+		},{
+			"id" : "23985",
+			"grade" : "",
+			"title" : "现代文阅读秘籍（适用于初一年级）",
+			"price" : "34.80",
+			"discountPrice" : "21.00",
+			"picUrl" : "src/pic/78_t4_c7.png",
+			"link" : "http://www.xueersi.com/kc/23985.html"
+		},{
+			"id" : "23986",
+			"grade" : "",
+			"title" : "现代文阅读秘籍（适用于初二年级）",
+			"price" : "34.90",
+			"discountPrice" : "21.00",
+			"picUrl" : "src/pic/78_t4_c8.png",
+			"link" : "http://www.xueersi.com/kc/23986.html"
+		},{
+			"id" : "24024",
+			"grade" : "",
+			"title" : "夯实基础--初一数学跟踪练习（上册）",
+			"price" : "19.90",
+			"discountPrice" : "12.00",
+			"picUrl" : "src/pic/78_t4_c9.png",
+			"link" : "http://www.xueersi.com/kc/24024.html"
+		},{
+			"id" : "24062",
+			"grade" : "",
+			"title" : "夯实基础--初二数学跟踪练习（上册）",
+			"price" : "26.80",
+			"discountPrice" : "16.00",
+			"picUrl" : "src/pic/78_t4_c10.png",
+			"link" : "http://www.xueersi.com/kc/24062.html"
+		},{
+			"id" : "24032",
+			"grade" : "",
+			"title" : "夯实基础--初三数学跟踪练习（上册）",
+			"price" : "24.80",
+			"discountPrice" : "15.00",
+			"picUrl" : "src/pic/78_t4_c11.png",
+			"link" : "http://www.xueersi.com/kc/24032.html"
+		},{
+			"id" : "24063",
+			"grade" : "",
+			"title" : "夯实基础--初二物理跟踪练习（上册）",
+			"price" : "22.80",
+			"discountPrice" : "14.00",
+			"picUrl" : "src/pic/78_t4_c12.png",
+			"link" : "http://www.xueersi.com/kc/24063.html"
+		},{
+			"id" : "24033",
+			"grade" : "",
+			"title" : "夯实基础--初三物理跟踪练习",
+			"price" : "23.80",
+			"discountPrice" : "14.00",
+			"picUrl" : "src/pic/78_t4_c13.png",
+			"link" : "http://www.xueersi.com/kc/24033.html"
+		},{
+			"id" : "24034",
+			"grade" : "",
+			"title" : "夯实基础--初三化学跟踪练习（上册）",
+			"price" : "29.80",
+			"discountPrice" : "18.00",
+			"picUrl" : "src/pic/78_t4_c14.png",
+			"link" : "http://www.xueersi.com/kc/24034.html"
+		},{
+			"id" : "24025",
+			"grade" : "",
+			"title" : "夯实基础--初一数学跟踪练习（下册）",
+			"price" : "26.80",
+			"discountPrice" : "16.00",
+			"picUrl" : "src/pic/78_t4_c15.png",
+			"link" : "http://www.xueersi.com/kc/24025.html"
+		},{
+			"id" : "24064",
+			"grade" : "",
+			"title" : "夯实基础--初二数学跟踪练习（下册）",
+			"price" : "26.80",
+			"discountPrice" : "16.00",
+			"picUrl" : "src/pic/78_t4_c16.png",
+			"link" : "http://www.xueersi.com/kc/24064.html"
+		},{
+			"id" : "24035",
+			"grade" : "",
+			"title" : "夯实基础--初三数学跟踪练习（下册）",
+			"price" : "19.80",
+			"discountPrice" : "12.00",
+			"picUrl" : "src/pic/78_t4_c17.png",
+			"link" : "http://www.xueersi.com/kc/24035.html"
+		},{
+			"id" : "24065",
+			"grade" : "",
+			"title" : "夯实基础--初二物理跟踪练习（下册）",
+			"price" : "29.80",
+			"discountPrice" : "18.00",
+			"picUrl" : "src/pic/78_t4_c18.png",
+			"link" : "http://www.xueersi.com/kc/24065.html"
+		},{
+			"id" : "24036",
+			"grade" : "",
+			"title" : "夯实基础--初三化学跟踪练习（下册）",
+			"price" : "29.80",
+			"discountPrice" : "18.00",
+			"picUrl" : "src/pic/78_t4_c19.png",
+			"link" : "http://www.xueersi.com/kc/24036.html"
+		},{
+			"id" : "24037",
+			"grade" : "",
+			"title" : "培优辅导--中考数学系统总复习",
+			"price" : "37.90",
+			"discountPrice" : "23.00",
+			"picUrl" : "src/pic/78_t4_c20.png",
+			"link" : "http://www.xueersi.com/kc/24037.html"
+		},{
+			"id" : "24038",
+			"grade" : "",
+			"title" : "培优辅导--中考物理系统总复习",
+			"price" : "37.90",
+			"discountPrice" : "23.00",
+			"picUrl" : "src/pic/78_t4_c21.png",
+			"link" : "http://www.xueersi.com/kc/24038.html"
+		},{
+			"id" : "24039",
+			"grade" : "",
+			"title" : "培优辅导--中考化学系统总复习",
+			"price" : "37.90",
+			"discountPrice" : "23.00",
+			"picUrl" : "src/pic/78_t4_c22.png",
+			"link" : "http://www.xueersi.com/kc/24039.html"
+		},{
+			"id" : "24002",
+			"grade" : "",
+			"title" : "培优辅导--高考数学系统总复习",
+			"price" : "118.00",
+			"discountPrice" : "71.00",
+			"picUrl" : "src/pic/78_t4_c23.png",
+			"link" : "http://www.xueersi.com/kc/24002.html"
+		},{
+			"id" : "23991",
+			"grade" : "g",
+			"title" : "培优辅导--高中数学必修1跟踪练习",
+			"price" : "19.8",
+			"discountPrice" : "12.00",
+			"picUrl" : "src/pic/78_t4_g1.png",
+			"link" : "http://www.xueersi.com/kc/23991.html"
+		},{
+			"id" : "23992",
+			"grade" : "",
+			"title" : "培优辅导--高中数学必修2跟踪练习",
+			"price" : "44.80",
+			"discountPrice" : "27.00",
+			"picUrl" : "src/pic/78_t4_g2.png",
+			"link" : "http://www.xueersi.com/kc/23992.html"
+		},{
+			"id" : "23993",
+			"grade" : "",
+			"title" : "培优辅导--高中数学必修3跟踪练习",
+			"price" : "35.80",
+			"discountPrice" : "21.00",
+			"picUrl" : "src/pic/78_t4_g3.png",
+			"link" : "http://www.xueersi.com/kc/23993.html"
+		},{
+			"id" : "23994",
+			"grade" : "",
+			"title" : "培优辅导--高中数学必修4跟踪练习",
+			"price" : "26.80",
+			"discountPrice" : "16.00",
+			"picUrl" : "src/pic/78_t4_g4.png",
+			"link" : "http://www.xueersi.com/kc/23994.html"
+		},{
+			"id" : "23995",
+			"grade" : "",
+			"title" : "培优辅导--高中数学必修5跟踪练习",
+			"price" : "34.80",
+			"discountPrice" : "21.00",
+			"picUrl" : "src/pic/78_t4_g5.png",
+			"link" : "http://www.xueersi.com/kc/23995.html"
+		},{
+			"id" : "23996",
+			"grade" : "",
+			"title" : "培优辅导--高中物理必修1跟踪练习",
+			"price" : "56.00",
+			"discountPrice" : "34.00",
+			"picUrl" : "src/pic/78_t4_g6.png",
+			"link" : "http://www.xueersi.com/kc/23996.html"
+		},{
+			"id" : "23997",
+			"grade" : "",
+			"title" : "培优辅导--高中物理必修2跟踪练习",
+			"price" : "48.00",
+			"discountPrice" : "29.00",
+			"picUrl" : "src/pic/78_t4_g7.png",
+			"link" : "http://www.xueersi.com/kc/23997.html"
+		},{
+			"id" : "23998",
+			"grade" : "",
+			"title" : "培优辅导--高中化学必修1跟踪练习",
+			"price" : "38.80",
+			"discountPrice" : "23.00",
+			"picUrl" : "src/pic/78_t4_g8.png",
+			"link" : "http://www.xueersi.com/kc/23998.html"
+		},{
+			"id" : "23999",
+			"grade" : "",
+			"title" : "培优辅导--高中化学必修2跟踪练习",
+			"price" : "42.80",
+			"discountPrice" : "26.00",
+			"picUrl" : "src/pic/78_t4_g9.png",
+			"link" : "http://www.xueersi.com/kc/23999.html"
+		},{
+			"id" : "24001",
+			"grade" : "",
+			"title" : "培优辅导--高中化学选修5跟踪练习",
+			"price" : "49.80",
+			"discountPrice" : "30.00",
+			"picUrl" : "src/pic/78_t4_g10.png",
+			"link" : "http://www.xueersi.com/kc/24001.html"
+		},{
+			"id" : "23988",
+			"grade" : "",
+			"title" : "中考家长帮秘籍（北京版）",
+			"price" : "35.80",
+			"discountPrice" : "21.00",
+			"picUrl" : "src/pic/78_t4_c24.png",
+			"link" : "http://www.xueersi.com/kc/23988.html"
+		},{
+			"id" : "23989",
+			"grade" : "",
+			"title" : "中考家长帮秘籍（上海版）",
+			"price" : "35.80",
+			"discountPrice" : "21.00",
+			"picUrl" : "src/pic/78_t4_c25.png",
+			"link" : "http://www.xueersi.com/kc/23989.html"
+		}
+	] 
+}

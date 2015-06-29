@@ -1,0 +1,105 @@
+{
+	"name" : "4折专区",
+	"tips" : "7月1日——7月7日全天震撼折扣价！",
+	"items": [
+		{
+			"id" : "23937",
+			"title" : "数学思维启蒙--一年级",
+			"grade" : "",
+			"price" : "19.80",
+			"discountPrice" : "8.00",
+			"picUrl" : "src/pic/78_t2_x1.png",
+			"link" : "http://www.xueersi.com/kc/23937.html"
+		},
+		{
+			"id" : "23938",
+			"title" : "数学思维启蒙--二年级",
+			"grade" : "x",
+			"price" : "19.80",
+			"discountPrice" : "8.00",
+			"picUrl" : "src/pic/78_t2_x2.png",
+			"link" : "http://www.xueersi.com/kc/23938.html"
+		},
+		{
+			"id" : "23939",
+			"title" : "数学思维训练汇编--三年级",
+			"grade" : "x",
+			"price" : "29.80",
+			"discountPrice" : "12.00",
+			"picUrl" : "src/pic/78_t2_x3.png",
+			"link" : "http://www.xueersi.com/kc/23939.html"
+		},
+		{
+			"id" : "23940",
+			"title" : "数学思维训练汇编--四年级",
+			"grade" : "x",
+			"price" : "29.50",
+			"discountPrice" : "12.00",
+			"picUrl" : "src/pic/78_t2_x4.png",
+			"link" : "http://www.xueersi.com/kc/23940.html"
+		},
+		{
+			"id" : "23941",
+			"title" : "数学思维训练汇编--五年级",
+			"grade" : "",
+			"price" : "43.00",
+			"discountPrice" : "17.00",
+			"picUrl" : "src/pic/78_t2_x5.png",
+			"link" : "http://www.xueersi.com/kc/23941.html"
+		},
+		{
+			"id" : "23942",
+			"title" : "数学思维训练汇编--六年级",
+			"grade" : "x",
+			"price" : "39.50",
+			"discountPrice" : "16.00",
+			"picUrl" : "src/pic/78_t2_x6.png",
+			"link" : "http://www.xueersi.com/kc/23942.html"
+		},
+
+
+
+		{
+			"id" : "24060",
+			"title" : "培优辅导--初二物理跟踪练习（上）",
+			"grade" : "c",
+			"price" : "32.00",
+			"discountPrice" : "13.00",
+			"picUrl" : "src/pic/78_t2_c1.png",
+			"link" : "http://www.xueersi.com/kc/24060.html"
+		},
+		{
+			"id" : "24061",
+			"title" : "培优辅导--初二物理跟踪练习（下）",
+			"grade" : "c",
+			"price" : "43.90",
+			"discountPrice" : "18.00 ",
+			"picUrl" : "src/pic/78_t2_c2.png",
+			"link" : "http://www.xueersi.com/kc/24061.html"
+		},{
+			"id" : "24029",
+			"title" : "培优辅导--初三物理跟踪练习",
+			"grade" : "c",
+			"price" : "41.90",
+			"discountPrice" : "17.00",
+			"picUrl" : "src/pic/78_t2_c3.png",
+			"link" : "http://www.xueersi.com/kc/24029.html"
+		},{
+			"id" : "24030",
+			"title" : "培优辅导--初三化学跟踪练习（上）",
+			"grade" : "c",
+			"price" : "37.80",
+			"discountPrice" : "15.00",
+			"picUrl" : "src/pic/78_t2_c4.png",
+			"link" : "http://www.xueersi.com/kc/24030.html"
+		},{
+			"id" : "24031",
+			"title" : "培优辅导--初三化学跟踪练习（下）",
+			"grade" : "c",
+			"price" : "28.80",
+			"discountPrice" : "12.00",
+			"picUrl" : "src/pic/78_t2_c5.png",
+			"link" : "http://www.xueersi.com/kc/24031.html"
+		}
+	] 
+}
